@@ -1,4 +1,4 @@
-##BMI Kalkulačka
+BMI Kalkulačka
 
-###Použité balíčky:
+Použité balíčky:
 react-router-dom axios
